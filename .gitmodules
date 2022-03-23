@@ -1,0 +1,6 @@
+[submodule "external/rasarindex"]
+	path = external/rasarindex
+	url = git@github.com:koeppl/rasarindex.git
+[submodule "external/bit_span"]
+	path = external/bit_span
+	url = https://github.com/tudocomp/bit_span.git
