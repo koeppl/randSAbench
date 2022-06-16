@@ -4,3 +4,6 @@
 [submodule "external/bit_span"]
 	path = external/bit_span
 	url = https://github.com/tudocomp/bit_span.git
+[submodule "external/randSAbenchbase"]
+	path = external/randSAbenchbase
+	url = https://github.com/koeppl/randSAbenchbase
